@@ -18,10 +18,13 @@ This is a simple ToDo List application built using **Create React App** and **Re
 
 4. Tech Stack
    
-   React (via Create React App)
-   React-Bootstrap
-   Bootstrap 5
+   React (via Create React App),
+
+   React-Bootstrap,
+
+   Bootstrap 5,
+
    LocalStorage (for persistence)
 
 
-Made with ❤️ by Raunak
+   Made with ❤️ by Raunak
