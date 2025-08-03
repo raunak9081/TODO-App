@@ -9,12 +9,15 @@ This is a simple ToDo List application built using **Create React App** and **Re
 
 ---
 2. Install dependencies
-   npm install
+    
+    npm install
 
 3. Start the development server
+   
    npm start
 
 4. Tech Stack
+   
    React (via Create React App)
    React-Bootstrap
    Bootstrap 5
